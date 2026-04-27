@@ -5,4 +5,4 @@ header('Content-Type: text/html; charset=utf-8');
 // แสดงข้อความ
 echo "สวัสดีครับ x";
 ?>
-     
+     1234
