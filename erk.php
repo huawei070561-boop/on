@@ -3,6 +3,6 @@
 header('Content-Type: text/html; charset=utf-8');
 
 // แสดงข้อความ
-echo "สวัสดีครับ xxxxxx";
+echo "สวัสดีครับ x";
 ?>
      
